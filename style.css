@@ -11,3 +11,6 @@ body {
   color: lime;
   font-family: "ubuntu", serif;
   font-size: 1em; }
+
+a {
+  color: lime; }
