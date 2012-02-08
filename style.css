@@ -1,0 +1,13 @@
+@font-face {
+  font-family: "ubuntu";
+  src: url("/assets/ubuntu-font-family-0.80/UbuntuMono-R.ttf"); }
+
+html {
+  font-size: 100%; }
+
+body {
+  width: 600px;
+  background: black;
+  color: lime;
+  font-family: "ubuntu", serif;
+  font-size: 1em; }
